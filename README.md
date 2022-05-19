@@ -1,4 +1,4 @@
-## :speech_balloon: “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” (Will Durant) 
+#### :speech_balloon: “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” (Will Durant) 
 
 <!--
 **vgmda/vgmda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
