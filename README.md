@@ -4,7 +4,7 @@
 
 $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgmda&theme=tokyonight_duo)](https://git.io/streak-stats)
 <br></br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgmda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/vgmda/github-readme-stats)
 
 
 
