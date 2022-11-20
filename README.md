@@ -1,11 +1,10 @@
 <p align="center">
       <b><i> 🗨️ “We are what we repeatedly do. Excellence, then, is not an act, but a habit.” (Will Durant) </b></i>
+      <br></br>
+      <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vgmda&theme=tokyonight_duo" />
+      <br></br>
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmda&layout=compact" />
 </p>
-
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgmda&theme=tokyonight_duo)](https://git.io/streak-stats)
-<br></br>
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgmda&layout=compact)](https://github.com/vgmda/github-readme-stats)
-
 
 
 
