@@ -9,10 +9,11 @@
 
 
 
-## Goals for 2023
-- 🔭 Learn JavaScript
-- ⚡ MEAN + MERN Stack Development
+## 📌 Goals for 2023
+- 💡 Learn JavaScript
+- 🔰 MEAN + MERN Stack Development
 - 🌱 Gain knowledge and proficiency in MongoDB
+- 🏆 Complete challenges on HackerRank
 
 
 
