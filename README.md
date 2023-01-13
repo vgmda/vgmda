@@ -3,7 +3,7 @@
       <br></br>
       <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vgmda&theme=tokyonight_duo" />
       <br></br>
-      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgmda&layout=compact" />
+      <img width="50%" src="https://github-readme-stats-tec2.vercel.app/api/top-langs/?username=vgmda&layout=compact" />
 </p>
 
 
