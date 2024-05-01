@@ -9,11 +9,7 @@
 
 
 
-## 📌
-- 💡 Learn JavaScript
-- 🔰 MEAN + MERN Stack Development
-- 🌱 Gain knowledge and proficiency in MongoDB
-- 🏆 Complete challenges on HackerRank
+
 
 
 
@@ -43,6 +39,12 @@ Goals for 2023
 - 🥅 2020 Goals: Give impact to society
 - ⚡ Fun fact: I love blogging, reading books, and drawing
 
+
+## 📌
+- 💡 Learn JavaScript
+- 🔰 MEAN + MERN Stack Development
+- 🌱 Gain knowledge and proficiency in MongoDB
+- 🏆 Complete challenges on HackerRank
 
 
 -->
